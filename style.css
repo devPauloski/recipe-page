@@ -195,16 +195,20 @@ h1 + p {
 }
 
 .nutrients-wrapper {
-  margin-block-start: 1.625rem;
+  margin-block-start: 1.375rem;
 }
 
 .nutrient {
-  padding-block: 1rem;
+  padding-block: .875rem;
   padding-inline-start: min(2rem, 5%);
 }
 
 .nutrient:not(:last-child) {
   border-bottom: 1px solid var(--clr-stone-150);
+}
+
+.nutrient:last-child {
+  padding-block-end: 0;
 }
 
 .nutrient  p {
