@@ -194,6 +194,13 @@ h1 + p {
   font-weight: var(--fw-bold);
 }
 
+.ingredients-section,
+.instructions-section {
+  padding-block-end: 1.5rem;
+  border-bottom: 1px solid var(--clr-stone-150);
+}
+
+
 .nutrients-wrapper {
   margin-block-start: 1.375rem;
 }
