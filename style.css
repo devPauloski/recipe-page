@@ -204,7 +204,7 @@ h1 + p {
 }
 
 .nutrient:not(:last-child) {
-  border-bottom: 1px solid var(--clr-stone-150)git ;
+  border-bottom: 1px solid var(--clr-stone-150);
 }
 
 .nutrient  p {
