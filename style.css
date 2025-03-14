@@ -176,7 +176,7 @@ h1 + p {
 .ingredients-list,
 .instructions-list {
   display: grid;
-  gap: 1rem;
+  gap: .625rem;
 }
 
 .ingredients-list li ,
