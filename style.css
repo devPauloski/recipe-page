@@ -89,7 +89,7 @@ h1 {
 h2 {
   font-size: var(--fs-20-28);
   color: var(--clr-brown-800);
-  margin-block: 1.5rem;
+  margin-block: 1.25rem;
 }
 
 p {
