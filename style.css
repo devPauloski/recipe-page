@@ -214,10 +214,6 @@ h1 + p {
   border-bottom: 1px solid var(--clr-stone-150);
 }
 
-.nutrient:last-child {
-  padding-block-end: 0;
-}
-
 .nutrient  p {
   display: grid;
   grid-template-columns: 1fr 50%;
