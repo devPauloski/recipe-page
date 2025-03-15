@@ -54,7 +54,7 @@
 
 body {
   line-height: 1.5;
-  min-block-size: 100vh;
+  min-block-size: 100svh;
 }
 
 img,
