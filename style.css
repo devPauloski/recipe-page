@@ -76,7 +76,6 @@ body {
 h1, h2 {
   text-wrap: balance;
   font-family: var(--ff-accent);
-  font-weight: var(--fw-bold);
   line-height: 1.125;
 }
 
@@ -151,6 +150,7 @@ h1 + p {
 .preparation-time-wrapper > h2 {
   font-family: var(--ff-primary);
   font-size: 1.25rem;
+  font-weight: var(--fw-semibold);
   color: var(--clr-rose-800);
   margin-block-start: 0;
   margin-block-end: 1.125rem;
